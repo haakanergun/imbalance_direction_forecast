@@ -11,7 +11,7 @@ Bu proje, enerji piyasalarında dengesizlik yönünü tahmin etmek amacıyla gel
 Bu projeyi kendi bilgisayarınıza klonlamak için aşağıdaki komutu çalıştırın:
 
 
-<git clone https://github.com/haakanergun/imbalance_direction_forecast.git>
+git clone https://github.com/haakanergun/imbalance_direction_forecast.git
 
 Kullanılan Teknolojiler
 - Python
