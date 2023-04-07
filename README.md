@@ -28,4 +28,4 @@ Kullanılan Teknolojiler
 - Saatlik ve aylık performans analizi
 - Modelin başarısı ile sezgisel kuralın başarısı karşılaştırması
 ## Sonuç
-Projemizde, enerji arzı ve talebi arasındaki dengesizliği önceden tahmin etmek için sezgisel bir kural (T-3) ve gelişmiş bir makine öğrenimi modeli kullanarak enerji dengesizliği yönünü tahmin ettik. Makine öğrenimi modelimizin başarısı %82,83 olarak ölçüldü, bu da sezgisel kurala göre önemli bir gelişme sağladı.
+Projemizde, enerji arzı ve talebi arasındaki dengesizliği önceden tahmin etmek için sezgisel bir kural (T-3) ve gelişmiş bir makine öğrenimi modeli kullanarak enerji dengesizliği yönünü tahmin ettik. Makine öğrenimi modelimizin başarısı %82,22 olarak ölçüldü, bu da sezgisel kurala göre önemli bir gelişme sağladı.
